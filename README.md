@@ -1,1 +1,1 @@
-This is a collection of my assignments and course learning from NVIDIA DLI : "Getting Started with Deep Learning" and "Getting Started with Image Segmentation".
+This is a collection of my assignments and course learning from NVIDIA DLI : "Getting Started with Deep Learning", "Getting Started with Image Segmentation", "Modeling Time Series Data with Recurrent Neural Networks in Keras".
